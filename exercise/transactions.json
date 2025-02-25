@@ -1,0 +1,142 @@
+[
+  {
+    "billingAmount": 268.9,
+    "date": "2022-02-25",
+    "name": "פז גז"
+  },
+  {
+    "billingAmount": 9.9,
+    "date": "2022-01-02",
+    "name": "קפה קפה"
+  },
+  {
+    "name": "חברת החשמל",
+    "billingAmount": 490,
+    "date": "2022-03-18"
+  },
+  {
+    "billingAmount": 622.1,
+    "date": "2022-02-18",
+    "name": "עושר עד"
+  },
+  {
+    "name": "העברה בנקאית",
+    "incomeAmount": 4500,
+    "date": "2022-01-08"
+  },
+  {
+    "name": "משכורת מקפצובה",
+    "incomeAmount": 11500,
+    "date": "2022-01-05"
+  },
+  {
+    "billingAmount": 301.8,
+    "date": "2022-01-22",
+    "name": "פז גז"
+  },
+  {
+    "name": "משכורת מקפצובה",
+    "incomeAmount": 12501,
+    "date": "2022-03-05"
+  },
+  {
+    "name": "תשלום משכנתא",
+    "billingAmount": 3500,
+    "date": "2022-03-20"
+  },
+  {
+    "billingAmount": 210,
+    "date": "2022-03-10",
+    "name": "yellow"
+  },
+  {
+    "name": "חברת החשמל",
+    "billingAmount": 352,
+    "date": "2022-02-19"
+  },
+  {
+    "billingAmount": 42.8,
+    "date": "2022-01-10",
+    "name": "yellow"
+  },
+  {
+    "name": "משכורת מקפצובה",
+    "incomeAmount": 11789,
+    "date": "2022-02-05"
+  },
+  {
+    "billingAmount": 2320,
+    "date": "2022-03-03",
+    "name": "מוסך פר אייר"
+  },
+  {
+    "billingAmount": 321.7,
+    "date": "2022-01-05",
+    "name": "פז גז"
+  },
+  {
+    "billingAmount": 1500,
+    "date": "2022-02-15",
+    "name": "שוקולד באמצע הדרך"
+  },
+  {
+    "billingAmount": 298.1,
+    "date": "2022-02-07",
+    "name": "פז גז"
+  },
+  {
+    "billingAmount": 9.9,
+    "date": "2022-02-17",
+    "name": "קפה"
+  },
+  {
+    "billingAmount": 592,
+    "date": "2022-01-20",
+    "name": "שילב"
+  },
+  {
+    "name": "חברת החשמל",
+    "billingAmount": 961,
+    "date": "2022-01-17"
+  },
+  {
+    "billingAmount": 210,
+    "date": "2022-02-28",
+    "name": "שילב"
+  },
+  {
+    "name": "משכורת משבבה",
+    "incomeAmount": 1500,
+    "date": "2022-03-04"
+  },
+  {
+    "billingAmount": 65,
+    "date": "2022-01-11",
+    "name": "פיתה פיצה"
+  },
+  {
+    "billingAmount": 824.57,
+    "date": "2022-01-16",
+    "name": "עושר עד"
+  },
+  {
+    "billingAmount": 1080,
+    "date": "2022-02-03",
+    "name": "האחים סמי ובניו"
+  },
+  {
+    "billingAmount": 21,
+    "date": "2022-03-05",
+    "name": "קפה"
+  },
+  {
+    "name": "משכורת משבבה",
+    "incomeAmount": 1200,
+    "date": "2022-02-04"
+  },
+  {
+    "billingAmount": 88,
+    "date": "2022-01-10",
+    "name": "פארק היורה 5"
+  }
+]
