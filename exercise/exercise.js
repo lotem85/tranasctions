@@ -87,13 +87,18 @@ const getPredictedElectricityExpenses = (transactions) => {
 
 }
 
+/**
+ * calculate the predicted expenses
+ * @param {*} transactions 
+ * @param {*} month 
+ * @returns 
+ */
 const getPredictedExpenses = (transactions, month) => {
   const transactionToCalaculate = getTransactionsToCalaculate(transactions, month);
   const predictedMortgage = getPredictedMortgage(transactionToCalaculate);
   const predictedElectricity = getPredictedElectricityExpenses(transactionToCalaculate);
   const predictedExpenses = predictedMortgage + predictedElectricity;
-  console.log("משכנתא" ,predictedMortgage);
-  console.log("חשמל" ,predictedElectricity);
+
 
   return predictedExpenses;
 
